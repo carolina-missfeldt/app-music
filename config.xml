@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "carolina.missfeldt.naruto-app"
+    version     = "1.0.0" >
+
+    <name>NurutoApp</name>
+
+    <description>
+        Música mais triste do Naruto
+    </description>
+
+    <author email="carolina.missfeldt@gmail.com"> Carolina Missfeldt
+    </author>
+    <icon src="img/images.ico" />
+    <plugin name="cordova-plugin-splashscreen" />
+    <splash src="img/images.png" />
+
+</widget>
