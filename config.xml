@@ -12,7 +12,7 @@
 
     <author email="carolina.missfeldt@gmail.com"> Carolina Missfeldt
     </author>
-    <icon src="img/images.ico" />
+    <icon src="img/images.jpg" />
     <plugin name="cordova-plugin-splashscreen" />
     <splash src="img/images.png" />
 
