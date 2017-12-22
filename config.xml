@@ -4,16 +4,16 @@
     id          = "carolina.missfeldt.naruto-app"
     version     = "1.0.0" >
 
-    <name>NurutoApp</name>
+    <name>NarutoApp</name>
 
     <description>
-        Música mais triste do Naruto
+        A música mais triste do Naruto para não alegrar seus dias tristes
     </description>
 
     <author email="carolina.missfeldt@gmail.com"> Carolina Missfeldt
     </author>
-    <icon src="img/images.jpg" />
+    <icon src="img/icon.jpg" />
     <plugin name="cordova-plugin-splashscreen" />
-    <splash src="img/images.jpg" />
+    <splash src="img/splash.jpg" />
 
 </widget>
