@@ -13,15 +13,34 @@ html, body {
     overflow: hidden;
 }
 
+.container div {
+    background-color: #000;
+    color: #ff781f;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 1em;
+}
+
 img {
     width: 200%;
     height: 100%;
     margin-left: -50%;
 }
 
-.mp3 {
+.classico {
+    width: 100%;
+    position: fixed;
+    bottom: 63px;
+
+}
+
+audio {
+    width: 100%;
+    margin-bottom: -4px;
+}
+
+.funk {
     width: 100%;
     position: fixed;
     bottom: 0;
-    background-color: #000;
 }
